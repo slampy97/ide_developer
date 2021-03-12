@@ -1,0 +1,29 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=50305b7b_002D02d4_002D476a_002Daa15_002De9d2e5a8bab3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98B794DB-B697-4729-834B-2BA205AEFEAD::net5.0::MyTests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=617a02c4_002D699c_002D4604_002D8554_002Da71eb2323c54/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98B794DB-B697-4729-834B-2BA205AEFEAD::net5.0::MyTests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=91e0e8cd_002D86b9_002D4c79_002Db53f_002D3e0bb08347c5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98B794DB-B697-4729-834B-2BA205AEFEAD::net5.0::MyTests.Tests.Test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dd26bf86_002Dce67_002D4546_002Db50d_002Da3d9898540e6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98B794DB-B697-4729-834B-2BA205AEFEAD::net5.0::MyTests.Tests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98B794DB-B697-4729-834B-2BA205AEFEAD::net5.0::MyTests.Tests.Test2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98B794DB-B697-4729-834B-2BA205AEFEAD::net5.0::MyTests.Tests.Test3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98B794DB-B697-4729-834B-2BA205AEFEAD::net5.0::MyTests.Tests.Test4&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98B794DB-B697-4729-834B-2BA205AEFEAD::net5.0::MyTests.Tests.Test5&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98B794DB-B697-4729-834B-2BA205AEFEAD::net5.0::MyTests.Tests.Test6&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98B794DB-B697-4729-834B-2BA205AEFEAD::net5.0::MyTests.Tests.Test7&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98B794DB-B697-4729-834B-2BA205AEFEAD::net5.0::MyTests.Tests.Test8&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::98B794DB-B697-4729-834B-2BA205AEFEAD::net5.0::MyTests.Tests.Test9&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
